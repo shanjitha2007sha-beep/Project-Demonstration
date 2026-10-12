@@ -1,0 +1,18 @@
+# Project Demonstration & Walkthrough
+
+## 1. Overview
+This repository contains demonstration materials, execution scripts, and recorded walkthrough guides showcasing the final software project capabilities and generative workflows.
+
+---
+
+## 2. Key Demo Features
+* **Interactive Agents**: Demonstrates multi-agent reasoning, tools usage, and structured responses.
+* **Grounding & Accuracy**: Showcases search integration and RAG pipeline execution without hallucinations.
+* **User Interface**: Highlights end-to-end functionality across web interfaces and API triggers.
+
+---
+
+## 3. How to Run the Demo
+1. Launch the interactive application:
+   ```bash
+   python demo_app.py
